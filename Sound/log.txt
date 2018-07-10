@@ -1,0 +1,2 @@
+--**-- 01.05.2018 15:37:40 CsoundQt Logging Started: 
+--**-- 01.05.2018 15:37:58 CsoundQt Logging Started: 

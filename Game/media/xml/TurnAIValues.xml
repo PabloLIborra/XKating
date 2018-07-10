@@ -1,0 +1,275 @@
+<player name="0">
+    <waypoint>
+        <left   wp_left_min="0.25"      wp_left_c="0.75"        wp_left_max="0.00"></left>
+        <center wp_center_min="0.20"      wp_center_c="0.25"        wp_center_max="0.30"></center>
+        <right  wp_right_min="-0.25"      wp_right_c="0.25"        wp_right_max="1.00"></right>
+    </waypoint>
+    <obstacle>
+        <left   obs_left_min="0.25"      obs_left_c="0.50"        obs_left_max="0.00"></left>
+        <center obs_center_min="0.20"      obs_center_c="0.25"        obs_center_max="0.30"></center>
+        <right  obs_right_min="0.00"      obs_right_c="0.25"        obs_right_max="1.00"></right>
+    </obstacle>
+    <box>
+        <left   box_left_min="0.25"      box_left_c="0.50"        box_left_max="0.00"></left>
+        <center box_center_min="0.20"      box_center_c="0.25"        box_center_max="0.30"></center>
+        <right  box_right_min="0.00"      box_right_c="0.25"        box_right_max="1.00"></right>
+    </box>
+    <ramp>
+        <left   rmp_left_min="0.25"      rmp_left_c="0.50"        rmp_left_max="0.00"></left>
+        <center rmp_center_min="0.20"      rmp_center_c="0.25"        rmp_center_max="0.30"></center>
+        <right  rmp_right_min="0.00"      rmp_right_c="0.25"        rmp_right_max="1.00"></right>
+    </ramp>
+    <walls>
+        <left   wls_left_min="0.25"      wls_left_c="1.25"        wls_left_max="0.00"></left>
+        <center wls_center_min="0.20"      wls_center_c="0.25"        wls_center_max="0.30"></center>
+        <right  wls_right_min="-0.75"      wls_right_c="0.25"        wls_right_max="1.00"></right>
+    </walls>
+    <ratio1>
+        <waypoint   wp_left_r1="0.30"       wp_right_r1="0.30"></waypoint>
+        <box        box_left_r1="0.70"       box_right_r1="0.70"></box>
+    </ratio1>
+    <ratio2>
+        <waypoint   wp_left_r2="0.30"       wp_right_r2="0.30"></waypoint>
+        <ramp       rmp_left_r2="0.70"       rmp_right_r2="0.70"></ramp>
+    </ratio2>
+    <ratio3>
+        <waypoint   wp_left_r3="0.20"       wp_right_r3="0.20"></waypoint>
+        <ramp       rmp_left_r3="0.25"       rmp_right_r3="0.25"></ramp>
+        <box        box_left_r3="0.55"       box_right_r3="0.55"></box>
+    </ratio3>
+    <centroidT1>
+        <left      ctd_left_r1="-0.30"></left>
+        <center    ctd_center_r1="0.00"></left>
+        <right     ctd_right_r1="0.30"></left>
+    </centroidT1>
+    <centroidT2>
+        <left      ctd_left_r2="-1.00"></left>
+        <center    ctd_center_r2="-0.50"></left>
+        <right     ctd_right_r2="-0.01"></left>
+    </centroidT2>
+    <centroidT3>
+        <left      ctd_left_r3="0.01"></left>
+        <center    ctd_center_r3="0.50"></left>
+        <right     ctd_right_r3="1.00"></left>
+    </centroidT3>
+</player>
+<player name="1">
+    <waypoint>
+        <left   wp_left_min="0.25"      wp_left_c="0.75"        wp_left_max="0.00"></left>
+        <center wp_center_min="0.20"      wp_center_c="0.25"        wp_center_max="0.30"></center>
+        <right  wp_right_min="-0.25"      wp_right_c="0.25"        wp_right_max="1.00"></right>
+    </waypoint>
+    <obstacle>
+        <left   obs_left_min="0.25"      obs_left_c="0.50"        obs_left_max="0.00"></left>
+        <center obs_center_min="0.20"      obs_center_c="0.25"        obs_center_max="0.30"></center>
+        <right  obs_right_min="0.00"      obs_right_c="0.25"        obs_right_max="1.00"></right>
+    </obstacle>
+    <box>
+        <left   box_left_min="0.25"      box_left_c="0.50"        box_left_max="0.00"></left>
+        <center box_center_min="0.20"      box_center_c="0.25"        box_center_max="0.30"></center>
+        <right  box_right_min="0.00"      box_right_c="0.25"        box_right_max="1.00"></right>
+    </box>
+    <ramp>
+        <left   rmp_left_min="0.25"      rmp_left_c="0.50"        rmp_left_max="0.00"></left>
+        <center rmp_center_min="0.20"      rmp_center_c="0.25"        rmp_center_max="0.30"></center>
+        <right  rmp_right_min="0.00"      rmp_right_c="0.25"        rmp_right_max="1.00"></right>
+    </ramp>
+    <walls>
+        <left   wls_left_min="0.25"      wls_left_c="1.25"        wls_left_max="0.00"></left>
+        <center wls_center_min="0.20"      wls_center_c="0.25"        wls_center_max="0.30"></center>
+        <right  wls_right_min="-0.75"      wls_right_c="0.25"        wls_right_max="1.00"></right>
+    </walls>
+    <ratio1>
+        <waypoint   wp_left_r1="0.30"       wp_right_r1="0.30"></waypoint>
+        <box        box_left_r1="0.70"       box_right_r1="0.70"></box>
+    </ratio1>
+    <ratio2>
+        <waypoint   wp_left_r2="0.30"       wp_right_r2="0.30"></waypoint>
+        <ramp       rmp_left_r2="0.70"       rmp_right_r2="0.70"></ramp>
+    </ratio2>
+    <ratio3>
+        <waypoint   wp_left_r3="0.20"       wp_right_r3="0.20"></waypoint>
+        <ramp       rmp_left_r3="0.25"       rmp_right_r3="0.25"></ramp>
+        <box        box_left_r3="0.55"       box_right_r3="0.55"></box>
+    </ratio3>
+    <centroidT1>
+        <left      ctd_left_r1="-0.30"></left>
+        <center    ctd_center_r1="0.00"></left>
+        <right     ctd_right_r1="0.30"></left>
+    </centroidT1>
+    <centroidT2>
+        <left      ctd_left_r2="-1.00"></left>
+        <center    ctd_center_r2="-0.50"></left>
+        <right     ctd_right_r2="-0.01"></left>
+    </centroidT2>
+    <centroidT3>
+        <left      ctd_left_r3="0.01"></left>
+        <center    ctd_center_r3="0.50"></left>
+        <right     ctd_right_r3="1.00"></left>
+    </centroidT3>
+</player>
+<player name="2">
+    <waypoint>
+        <left   wp_left_min="0.25"      wp_left_c="0.75"        wp_left_max="0.00"></left>
+        <center wp_center_min="0.20"      wp_center_c="0.25"        wp_center_max="0.30"></center>
+        <right  wp_right_min="-0.25"      wp_right_c="0.25"        wp_right_max="1.00"></right>
+    </waypoint>
+    <obstacle>
+        <left   obs_left_min="0.25"      obs_left_c="0.50"        obs_left_max="0.00"></left>
+        <center obs_center_min="0.20"      obs_center_c="0.25"        obs_center_max="0.30"></center>
+        <right  obs_right_min="0.00"      obs_right_c="0.25"        obs_right_max="1.00"></right>
+    </obstacle>
+    <box>
+        <left   box_left_min="0.25"      box_left_c="0.50"        box_left_max="0.00"></left>
+        <center box_center_min="0.20"      box_center_c="0.25"        box_center_max="0.30"></center>
+        <right  box_right_min="0.00"      box_right_c="0.25"        box_right_max="1.00"></right>
+    </box>
+    <ramp>
+        <left   rmp_left_min="0.25"      rmp_left_c="0.50"        rmp_left_max="0.00"></left>
+        <center rmp_center_min="0.20"      rmp_center_c="0.25"        rmp_center_max="0.30"></center>
+        <right  rmp_right_min="0.00"      rmp_right_c="0.25"        rmp_right_max="1.00"></right>
+    </ramp>
+    <walls>
+        <left   wls_left_min="0.25"      wls_left_c="1.25"        wls_left_max="0.00"></left>
+        <center wls_center_min="0.20"      wls_center_c="0.25"        wls_center_max="0.30"></center>
+        <right  wls_right_min="-0.75"      wls_right_c="0.25"        wls_right_max="1.00"></right>
+    </walls>
+    <ratio1>
+        <waypoint   wp_left_r1="0.30"       wp_right_r1="0.30"></waypoint>
+        <box        box_left_r1="0.70"       box_right_r1="0.70"></box>
+    </ratio1>
+    <ratio2>
+        <waypoint   wp_left_r2="0.30"       wp_right_r2="0.30"></waypoint>
+        <ramp       rmp_left_r2="0.70"       rmp_right_r2="0.70"></ramp>
+    </ratio2>
+    <ratio3>
+        <waypoint   wp_left_r3="0.20"       wp_right_r3="0.20"></waypoint>
+        <ramp       rmp_left_r3="0.25"       rmp_right_r3="0.25"></ramp>
+        <box        box_left_r3="0.55"       box_right_r3="0.55"></box>
+    </ratio3>
+    <centroidT1>
+        <left      ctd_left_r1="-0.30"></left>
+        <center    ctd_center_r1="0.00"></left>
+        <right     ctd_right_r1="0.30"></left>
+    </centroidT1>
+    <centroidT2>
+        <left      ctd_left_r2="-1.00"></left>
+        <center    ctd_center_r2="-0.50"></left>
+        <right     ctd_right_r2="-0.01"></left>
+    </centroidT2>
+    <centroidT3>
+        <left      ctd_left_r3="0.01"></left>
+        <center    ctd_center_r3="0.50"></left>
+        <right     ctd_right_r3="1.00"></left>
+    </centroidT3>
+</player>
+<player name="3">
+    <waypoint>
+        <left   wp_left_min="0.25"      wp_left_c="0.75"        wp_left_max="0.00"></left>
+        <center wp_center_min="0.20"      wp_center_c="0.25"        wp_center_max="0.30"></center>
+        <right  wp_right_min="-0.25"      wp_right_c="0.25"        wp_right_max="1.00"></right>
+    </waypoint>
+    <obstacle>
+        <left   obs_left_min="0.25"      obs_left_c="0.50"        obs_left_max="0.00"></left>
+        <center obs_center_min="0.20"      obs_center_c="0.25"        obs_center_max="0.30"></center>
+        <right  obs_right_min="0.00"      obs_right_c="0.25"        obs_right_max="1.00"></right>
+    </obstacle>
+    <box>
+        <left   box_left_min="0.25"      box_left_c="0.50"        box_left_max="0.00"></left>
+        <center box_center_min="0.20"      box_center_c="0.25"        box_center_max="0.30"></center>
+        <right  box_right_min="0.00"      box_right_c="0.25"        box_right_max="1.00"></right>
+    </box>
+    <ramp>
+        <left   rmp_left_min="0.25"      rmp_left_c="0.50"        rmp_left_max="0.00"></left>
+        <center rmp_center_min="0.20"      rmp_center_c="0.25"        rmp_center_max="0.30"></center>
+        <right  rmp_right_min="0.00"      rmp_right_c="0.25"        rmp_right_max="1.00"></right>
+    </ramp>
+    <walls>
+        <left   wls_left_min="0.25"      wls_left_c="1.25"        wls_left_max="0.00"></left>
+        <center wls_center_min="0.20"      wls_center_c="0.25"        wls_center_max="0.30"></center>
+        <right  wls_right_min="-0.75"      wls_right_c="0.25"        wls_right_max="1.00"></right>
+    </walls>
+    <ratio1>
+        <waypoint   wp_left_r1="0.30"       wp_right_r1="0.30"></waypoint>
+        <box        box_left_r1="0.70"       box_right_r1="0.70"></box>
+    </ratio1>
+    <ratio2>
+        <waypoint   wp_left_r2="0.30"       wp_right_r2="0.30"></waypoint>
+        <ramp       rmp_left_r2="0.70"       rmp_right_r2="0.70"></ramp>
+    </ratio2>
+    <ratio3>
+        <waypoint   wp_left_r3="0.20"       wp_right_r3="0.20"></waypoint>
+        <ramp       rmp_left_r3="0.25"       rmp_right_r3="0.25"></ramp>
+        <box        box_left_r3="0.55"       box_right_r3="0.55"></box>
+    </ratio3>
+    <centroidT1>
+        <left      ctd_left_r1="-0.30"></left>
+        <center    ctd_center_r1="0.00"></left>
+        <right     ctd_right_r1="0.30"></left>
+    </centroidT1>
+    <centroidT2>
+        <left      ctd_left_r2="-1.00"></left>
+        <center    ctd_center_r2="-0.50"></left>
+        <right     ctd_right_r2="-0.01"></left>
+    </centroidT2>
+    <centroidT3>
+        <left      ctd_left_r3="0.01"></left>
+        <center    ctd_center_r3="0.50"></left>
+        <right     ctd_right_r3="1.00"></left>
+    </centroidT3>
+</player>
+<player name="5">
+    <waypoint>
+        <left   wp_left_min="0.25"      wp_left_c="0.75"        wp_left_max="0.00"></left>
+        <center wp_center_min="0.15"      wp_center_c="0.25"        wp_center_max="0.35"></center>
+        <right  wp_right_min="-0.25"      wp_right_c="0.25"        wp_right_max="1.00"></right>
+    </waypoint>
+    <obstacle>
+        <left   obs_left_min="0.25"      obs_left_c="0.50"        obs_left_max="0.00"></left>
+        <center obs_center_min="0.20"      obs_center_c="0.25"        obs_center_max="0.30"></center>
+        <right  obs_right_min="0.00"      obs_right_c="0.25"        obs_right_max="1.00"></right>
+    </obstacle>
+    <box>
+        <left   box_left_min="0.25"      box_left_c="0.50"        box_left_max="0.00"></left>
+        <center box_center_min="0.20"      box_center_c="0.25"        box_center_max="0.30"></center>
+        <right  box_right_min="0.00"      box_right_c="0.25"        box_right_max="1.00"></right>
+    </box>
+    <ramp>
+        <left   rmp_left_min="0.25"      rmp_left_c="0.50"        rmp_left_max="0.00"></left>
+        <center rmp_center_min="0.20"      rmp_center_c="0.25"        rmp_center_max="0.30"></center>
+        <right  rmp_right_min="0.00"      rmp_right_c="0.25"        rmp_right_max="1.00"></right>
+    </ramp>
+    <walls>
+        <left   wls_left_min="0.25"      wls_left_c="1.25"        wls_left_max="0.00"></left>
+        <center wls_center_min="0.20"      wls_center_c="0.25"        wls_center_max="0.30"></center>
+        <right  wls_right_min="-0.75"      wls_right_c="0.25"        wls_right_max="1.00"></right>
+    </walls>
+    <ratio1>
+        <waypoint   wp_left_r1="0.30"       wp_right_r1="0.30"></waypoint>
+        <box        box_left_r1="0.70"       box_right_r1="0.70"></box>
+    </ratio1>
+    <ratio2>
+        <waypoint   wp_left_r2="0.30"       wp_right_r2="0.30"></waypoint>
+        <ramp       rmp_left_r2="0.70"       rmp_right_r2="0.70"></ramp>
+    </ratio2>
+    <ratio3>
+        <waypoint   wp_left_r3="0.20"       wp_right_r3="0.20"></waypoint>
+        <ramp       rmp_left_r3="0.25"       rmp_right_r3="0.25"></ramp>
+        <box        box_left_r3="0.55"       box_right_r3="0.55"></box>
+    </ratio3>
+    <centroidT1>
+        <left      ctd_left_r1="-0.30"></left>
+        <center    ctd_center_r1="0.00"></left>
+        <right     ctd_right_r1="0.30"></left>
+    </centroidT1>
+    <centroidT2>
+        <left      ctd_left_r2="-1.00"></left>
+        <center    ctd_center_r2="-0.50"></left>
+        <right     ctd_right_r2="-0.01"></left>
+    </centroidT2>
+    <centroidT3>
+        <left      ctd_left_r3="0.01"></left>
+        <center    ctd_center_r3="0.50"></left>
+        <right     ctd_right_r3="1.00"></left>
+    </centroidT3>
+</player>

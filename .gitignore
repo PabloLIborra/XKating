@@ -1,0 +1,23 @@
+Game/bin/obj/
+Game/bin/XKating
+Game/bin/XKating.exe
+Game/bin/XKating.sh
+Game/bin/Server_XKating
+Game/bin/Server_XKating.exe
+Game/bin/Server_XKating.sh
+RedPandaStudio/bin/obj
+RedPandaStudio/bin/test
+RedPandaStudio/bin/test.sh
+RedPandaStudio/bin/libRedPanda.so
+RedPandaStudio/bin/main.o
+.vscode/
+Game/.vscode/
+.DS_Store
+Game/.DS_Store
+Game/bin/.DS_Store
+Game/lib/.DS_Store
+Game/lib/linux/.DS_Store
+Game/lib/mac/.DS_Store
+Docs/PD/Tráiler/Adobe \Premiere \Pro \Auto-Save
+Docs/PD/Tráiler/Adobe \Premiere \Pro \Preview Files
+Docs/PD/Tráiler/Almacenamiento \automático \de \Adobe \After \Effects

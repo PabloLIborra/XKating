@@ -1,0 +1,63 @@
+--**-- 20.04.2018 23:41:48 CsoundQt Logging Started: 
+--**-- 20.04.2018 23:53:22 CsoundQt Logging Started: 
+--**-- 20.04.2018 23:57:04 CsoundQt Logging Started: 
+--**-- 21.04.2018 00:20:22 CsoundQt Logging Started: 
+--**-- 21.04.2018 00:20:22 CsoundQt Logging Started: 
+__**__ 21.04.2018 00:20:36 Play: /home/luis/Documentos/UA/SMC/PR7/ej7.15.csd
+UnifiedCSD:  /home/luis/Documentos/UA/SMC/PR7/ej7.15.csd
+STARTING FILE
+Creating options
+Creating orchestra
+closing tag
+Creating score
+rtaudio: ALSA module enabled
+Elapsed time at end of orchestra compile: real: 0.002s, CPU: 0.002s
+sorting score ...
+	... done
+Elapsed time at end of score sort: real: 0.002s, CPU: 0.002s
+Multithread performance:thread 5 of 12 starting.
+Multithread performance:thread 6 of 12 starting.
+Multithread performance:thread 7 of 12 starting.
+Multithread performance:thread 1 of 12 starting.
+midi channel 1 using instr 15
+midi channel 2 using instr 15
+midi channel 3 using instr 15
+midi channel 4 using instr 15
+midi channel 5 using instr 15
+midi channel 6 using instr 15
+midi channel 7 using instr 15
+midi channel 8 using instr 15
+midi channel 9 using instr 15
+midi channel 10 using instr 15
+midi channel 11 using instr 15
+midi channel 12 using instr 15
+Multithread performance:thread 2 of 12 starting.
+midi channel 13 using instr 15
+Multithread performance:thread 3 of 12 starting.
+midi channel 14 using instr 15
+Multithread performance:thread 4 of 12 starting.
+midi channel 15 using instr 15
+Multithread performance:thread 8 of 12 starting.
+midi channel 16 using instr 15
+Multithread performance:thread 9 of 12 starting.
+Multithread performance:thread 11 of 12 starting.
+Multithread performance:thread 10 of 12 starting.
+0dBFS level = 32768.0
+orch now loaded
+audio buffered in 16384 sample-frame blocks
+writing 98304-byte blks of 24bit ints to ej7.15.wav (WAV)
+SECTION 1:
+new alloc for instr 15:
+diskin2: opened 'guitardust.wav':
+         44100 Hz, 1 channel(s), 547264 sample frames
+B  0.000 .. 14.000 T 14.000 TT 14.000 M:  11902.0  11902.0
+diskin2: opened 'guitardust.wav':
+         44100 Hz, 1 channel(s), 547264 sample frames
+B 14.000 .. 28.000 T 28.000 TT 28.000 M:  17026.0  18470.5
+Score finished in csoundPerformKsmps() with 2.
+inactive allocs returned to freespace
+end of score.		   overall amps:  17026.0  18470.5
+	   overall samples out of range:        0        0
+0 errors in performance
+Elapsed time at end of performance: real: 2.830s, CPU: 9.697s
+32768 98304 sample blks of 24bit ints written to ej7.15.wav (WAV)

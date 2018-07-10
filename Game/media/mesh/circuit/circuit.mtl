@@ -1,0 +1,182 @@
+# Blender MTL File: 'circuitNew.blend'
+# Material Count: 16
+
+newmtl CircuitMaterial
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Baked/BakeEdifFuera.bmp
+bump EdificiosFuera/CircuitMaterial_Normal_OpenGL.png
+
+newmtl Material.001
+Ns 1.0
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.640000 0.153454
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Baked/BakedTerreno.bmp
+bump NuevasTexturas/Material.001_Normal_OpenGL.png
+
+newmtl Material.002
+Ns 1.0
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Baked/BakedCoche.bmp
+bump Coche/DefaultMaterial_Normal_OpenGL.png
+
+newmtl Material.003
+Ns 1.0
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Baked/BakePista.bmp
+bump PistaBordillo/DefaultMaterial_Normal_OpenGL_Tiny.png
+
+newmtl Material.006
+Ns 1.0
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Baked/BakeFarolas.bmp
+bump Farolas/CircuitMaterial_Normal_OpenGL.png
+
+newmtl Material.009
+Ns 1.0
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Baked/BakeBidones.bmp
+bump Bidones/CircuitMaterial_Normal_OpenGL.png
+
+newmtl Material.010
+Ns 1.0
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Baked/BakeObjetos.bmp
+bump ObjetosPasillo/DefaultMaterial_Normal_OpenGL.png
+
+newmtl Material.011
+Ns 1.0
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Baked/BakeSenales.bmp
+bump Senales/DefaultMaterial_Normal_OpenGL.png
+
+newmtl Material.012
+Ns 1.0
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Baked/BakeEdifIndustrial.bmp
+bump EdificiosIndustrial/CircuitMaterial_Normal_OpenGL.png
+
+newmtl Material.013
+Ns 1.0
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Baked/BakeTuberias.bmp
+bump Tuberias/CircuitMaterial_Normal_OpenGL.png
+
+newmtl Material.015
+Ns 1.0
+Ka 1.000000 1.000000 1.000000
+Kd 0.00000 0.00000 0.00000
+Ks 0.10000 0.10000 0.10000
+Ke 0.000000 0.000000 0.000000
+Ni 0.000000
+d 0.000000
+illum 2
+map_Kd Baked/BakePuente.bmp
+bump Puente/CircuitMaterial_Normal_OpenGL.png
+
+newmtl MaterialBorde
+Ns 1.0
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Baked/BakedBorde.bmp
+bump NuevasTexturas/MaterialBorde_Normal_OpenGL.png
+
+newmtl MaterialEdifFondo
+Ns 1.0
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Baked/BakeEdifFuera2.bmp
+bump NuevasTexturas/MaterialEdifFondo_Normal_OpenGL.png
+
+newmtl MaterialEdificios
+Ns 1.0
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Baked/BakeEdificios.bmp
+bump NuevasTexturas/MaterialEdificios_Normal_OpenGL.png
+
+newmtl MaterialVigas
+Ns 1.0
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Baked/BakeVigas.bmp
+bump NuevasTexturas/MaterialVigas_Normal_OpenGL.png

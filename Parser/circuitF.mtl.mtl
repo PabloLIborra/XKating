@@ -1,0 +1,26 @@
+# Blender MTL File: 'Final2Logic.blend'
+# Material Count: 2
+
+newmtl Material__327.001
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd /home/luis/Descargas/Toad Harbor/Toad Harbor/ct_rails03_alb.png
+map_Ka /home/luis/Descargas/Toad Harbor/Toad Harbor/ct_rails03_alb.png
+
+newmtl Material__327.001_NONE
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Ka /home/luis/Descargas/Toad Harbor/Toad Harbor/ct_rails03_alb.png
+map_Kd /home/luis/Descargas/Toad Harbor/Toad Harbor/ct_rails03_alb.png

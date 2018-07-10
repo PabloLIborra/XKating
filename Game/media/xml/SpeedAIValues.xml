@@ -1,0 +1,128 @@
+<player name="0">
+    <going>
+        <left   s_going_left_min="0.20"      s_going_left_c="1.00"        s_going_left_max="0.00"></left>
+        <center s_going_center_min="-0.30"      s_going_center_c="0.00"        s_going_center_max="0.30"></center>
+        <right  s_going_right_min="-1.00"      s_going_right_c="-0.20"        s_going_right_max="1.00"></right>
+    </going>
+    <collision>
+        <left   s_obs_left_min="0.30"      s_obs_left_c="0.51"        s_obs_left_max="0.00"></left>
+        <center s_obs_center_min="0.10"      s_obs_center_c="0.25"        s_obs_center_max="0.40"></center>
+        <right  s_obs_right_min="-0.01"      s_obs_right_c="0.20"        s_obs_right_max="1.00"></right>
+    </collision>
+    <distance>
+        <left   s_obs_closeRange_min="0.00"      s_obs_closeRange_c="1.00"        s_obs_closeRange_max="1.00"></left>
+        <center s_obs_mediumRange_min="0.50"      s_obs_mediumRange_c="1.00"        s_obs_mediumRange_max="2.00"></center>
+        <right  s_obs_farRange_min="1.80"      s_obs_farRange_c="10.00"        s_obs_farRange_max="1.00"></right>
+    </distance>
+    <centroidT1>
+        <left      s_ctd_left_r1="-0.30"></left>
+        <center    s_ctd_center_r1="0.00"></left>
+        <right     s_ctd_right_r1="0.30"></left>
+    </centroidT1>
+    <centroidT2>
+        <left      s_ctd_left_r2="-1.00"></left>
+        <center    s_ctd_center_r2="-0.99"></left>
+        <right     s_ctd_right_r2="-0.05"></left>
+    </centroidT2>
+    <centroidT3>
+        <left      s_ctd_left_r3="0.02"></left>
+        <center    s_ctd_center_r3="0.99"></left>
+        <right     s_ctd_right_r3="1.00"></left>
+    </centroidT3>
+</player>
+<player name="1">
+    <going>
+        <left   s_going_left_min="0.20"      s_going_left_c="1.00"        s_going_left_max="0.00"></left>
+        <center s_going_center_min="-0.30"      s_going_center_c="0.00"        s_going_center_max="0.30"></center>
+        <right  s_going_right_min="-1.00"      s_going_right_c="-0.20"        s_going_right_max="1.00"></right>
+    </going>
+    <collision>
+        <left   s_obs_left_min="0.30"      s_obs_left_c="0.51"        s_obs_left_max="0.00"></left>
+        <center s_obs_center_min="0.10"      s_obs_center_c="0.25"        s_obs_center_max="0.40"></center>
+        <right  s_obs_right_min="-0.01"      s_obs_right_c="0.20"        s_obs_right_max="1.00"></right>
+    </collision>
+    <distance>
+        <left   s_obs_closeRange_min="0.00"      s_obs_closeRange_c="1.00"        s_obs_closeRange_max="1.00"></left>
+        <center s_obs_mediumRange_min="0.50"      s_obs_mediumRange_c="1.00"        s_obs_mediumRange_max="2.00"></center>
+        <right  s_obs_farRange_min="1.80"      s_obs_farRange_c="10.00"        s_obs_farRange_max="1.00"></right>
+    </distance>
+    <centroidT1>
+        <left      s_ctd_left_r1="-0.30"></left>
+        <center    s_ctd_center_r1="0.00"></left>
+        <right     s_ctd_right_r1="0.30"></left>
+    </centroidT1>
+    <centroidT2>
+        <left      s_ctd_left_r2="-1.00"></left>
+        <center    s_ctd_center_r2="-0.99"></left>
+        <right     s_ctd_right_r2="-0.05"></left>
+    </centroidT2>
+    <centroidT3>
+        <left      s_ctd_left_r3="0.02"></left>
+        <center    s_ctd_center_r3="0.99"></left>
+        <right     s_ctd_right_r3="1.00"></left>
+    </centroidT3>
+</player>
+<player name="2">
+    <going>
+        <left   s_going_left_min="0.20"      s_going_left_c="1.00"        s_going_left_max="0.00"></left>
+        <center s_going_center_min="-0.30"      s_going_center_c="0.00"        s_going_center_max="0.30"></center>
+        <right  s_going_right_min="-1.00"      s_going_right_c="-0.20"        s_going_right_max="1.00"></right>
+    </going>
+    <collision>
+        <left   s_obs_left_min="0.30"      s_obs_left_c="0.51"        s_obs_left_max="0.00"></left>
+        <center s_obs_center_min="0.10"      s_obs_center_c="0.25"        s_obs_center_max="0.40"></center>
+        <right  s_obs_right_min="-0.01"      s_obs_right_c="0.20"        s_obs_right_max="1.00"></right>
+    </collision>
+    <distance>
+        <left   s_obs_closeRange_min="0.00"      s_obs_closeRange_c="1.00"        s_obs_closeRange_max="1.00"></left>
+        <center s_obs_mediumRange_min="0.50"      s_obs_mediumRange_c="1.00"        s_obs_mediumRange_max="2.00"></center>
+        <right  s_obs_farRange_min="1.80"      s_obs_farRange_c="10.00"        s_obs_farRange_max="1.00"></right>
+    </distance>
+    <centroidT1>
+        <left      s_ctd_left_r1="-0.30"></left>
+        <center    s_ctd_center_r1="0.00"></left>
+        <right     s_ctd_right_r1="0.30"></left>
+    </centroidT1>
+    <centroidT2>
+        <left      s_ctd_left_r2="-1.00"></left>
+        <center    s_ctd_center_r2="-0.99"></left>
+        <right     s_ctd_right_r2="-0.05"></left>
+    </centroidT2>
+    <centroidT3>
+        <left      s_ctd_left_r3="0.02"></left>
+        <center    s_ctd_center_r3="0.99"></left>
+        <right     s_ctd_right_r3="1.00"></left>
+    </centroidT3>
+</player>
+<player name="3">
+    <going>
+        <left   s_going_left_min="0.20"      s_going_left_c="1.00"        s_going_left_max="0.00"></left>
+        <center s_going_center_min="-0.30"      s_going_center_c="0.00"        s_going_center_max="0.30"></center>
+        <right  s_going_right_min="-1.00"      s_going_right_c="-0.20"        s_going_right_max="1.00"></right>
+    </going>
+    <collision>
+        <left   s_obs_left_min="0.30"      s_obs_left_c="0.51"        s_obs_left_max="0.00"></left>
+        <center s_obs_center_min="0.10"      s_obs_center_c="0.25"        s_obs_center_max="0.40"></center>
+        <right  s_obs_right_min="-0.01"      s_obs_right_c="0.20"        s_obs_right_max="1.00"></right>
+    </collision>
+    <distance>
+        <left   s_obs_closeRange_min="0.00"      s_obs_closeRange_c="1.00"        s_obs_closeRange_max="1.00"></left>
+        <center s_obs_mediumRange_min="0.50"      s_obs_mediumRange_c="1.00"        s_obs_mediumRange_max="2.00"></center>
+        <right  s_obs_farRange_min="1.80"      s_obs_farRange_c="10.00"        s_obs_farRange_max="1.00"></right>
+    </distance>
+    <centroidT1>
+        <left      s_ctd_left_r1="-0.30"></left>
+        <center    s_ctd_center_r1="0.00"></left>
+        <right     s_ctd_right_r1="0.30"></left>
+    </centroidT1>
+    <centroidT2>
+        <left      s_ctd_left_r2="-1.00"></left>
+        <center    s_ctd_center_r2="-0.99"></left>
+        <right     s_ctd_right_r2="-0.05"></left>
+    </centroidT2>
+    <centroidT3>
+        <left      s_ctd_left_r3="0.02"></left>
+        <center    s_ctd_center_r3="0.99"></left>
+        <right     s_ctd_right_r3="1.00"></left>
+    </centroidT3>
+</player>

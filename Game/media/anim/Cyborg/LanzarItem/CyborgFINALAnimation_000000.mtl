@@ -1,0 +1,11 @@
+# Blender MTL File: 'CyborgFINALAnimation.blend'
+# Material Count: 1
+
+newmtl None
+Ns 0
+Ka 1.0 1.0 1.0
+Kd 3.0 3.0 3.0
+Ks 0.0 0.0 0.0
+d 1
+illum 2
+map_Kd C:\Users\Laura\Documents\GitHub\Wasted-Racing\Docs\RV\Texturas\Personajes\Cyborg\DefaultMaterial_Base_Color.png

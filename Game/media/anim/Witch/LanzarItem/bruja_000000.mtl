@@ -1,0 +1,11 @@
+# Blender MTL File: 'bruja.blend'
+# Material Count: 1
+
+newmtl None
+Ns 0
+Ka 1.000000 1.000000 1.000000
+Kd 3.0 3.0 3.0
+Ks 0.0 0.0 0.0
+d 1
+illum 2
+map_Kd ../DefaultMaterial_Base_Color.png
